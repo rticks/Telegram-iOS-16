@@ -5650,7 +5650,7 @@ Sorry for the inconvenience.";
 "Stats.GroupShowMoreTopInviters_any" = "Show %@ More";
 
 "Settings.AddAnotherAccount" = "Add Another Account";
-"Settings.AddAnotherAccount.Help" = "You can add up to three accounts with different phone numbers.";
+"Settings.AddAnotherAccount.Help" = "You can add up to 16 accounts with different phone numbers.";
 
 "ProfilePhoto.OpenGallery" = "Open Gallery";
 "ProfilePhoto.SearchWeb" = "Search Web";
@@ -7885,7 +7885,7 @@ Sorry for the inconvenience.";
 
 "Settings.Premium" = "Telegram Premium";
 
-"Settings.AddAnotherAccount.PremiumHelp" = "You can add up to four accounts with different phone numbers.";
+"Settings.AddAnotherAccount.PremiumHelp" = "You can add up to 32 accounts with different phone numbers.";
 
 "Stickers.TrendingPremiumStickers" = "Trending Premium Stickers";
 
@@ -7901,8 +7901,8 @@ Sorry for the inconvenience.";
 "DeleteAccount.Options.ChangePhoneNumberText" = "Move your contacts, chats and media to a new number.";
 
 "DeleteAccount.Options.AddAccountTitle" = "Add Another Account";
-"DeleteAccount.Options.AddAccountText" = "You can use up to 3 accounts in one app at the same time.";
-"DeleteAccount.Options.AddAccountPremiumText" = "You can use up to 4 accounts in one app at the same time.";
+"DeleteAccount.Options.AddAccountText" = "You can use up to 16 accounts in one app at the same time.";
+"DeleteAccount.Options.AddAccountPremiumText" = "You can use up to 32 accounts in one app at the same time.";
 
 "DeleteAccount.Options.ChangePrivacyTitle" = "Change Your Privacy Settings";
 "DeleteAccount.Options.ChangePrivacyText" = "Choose who exactly can see which of your info.";
